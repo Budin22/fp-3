@@ -1,7 +1,7 @@
 'use strict';
 
-let numberOne = 2;
-let numberTwo = 3;
+let numberOne = Number(prompt('введите число'));
+let numberTwo = Number(prompt('введите число'));
 const resultPlus = numberOne+numberTwo;
 const resultMinus = numberOne-numberTwo;
 const resultMultiply = numberOne*numberTwo;
