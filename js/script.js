@@ -1,7 +1,7 @@
 'use strict';
 
-const numberOne = 2;
-const numberTwo = 3;
+let numberOne = 2;
+let numberTwo = 3;
 const resultPlus = numberOne+numberTwo;
 const resultMinus = numberOne-numberTwo;
 const resultMultiply = numberOne*numberTwo;
